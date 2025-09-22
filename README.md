@@ -1,8 +1,8 @@
 
 <div align="center">
-<h1>💫 Harshvardhansinh Sarvaiya</h1>
+<h1>Harshvardhansinh Sarvaiya</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Flutter+Specialist+%F0%9F%93%B1;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%8D;Always+Innovating+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Flutter+Specialist+%F0%9F%93%B1;Problem+Solver+%F0%9F%A7%A9;Always+Innovating+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=hdsarvaiya&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 
